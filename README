@@ -1,0 +1,34 @@
+# Financial Data Repository
+
+This repository contains financial data stored in XML and Excel formats.
+
+## Files
+
+* **Financial Data.xml**
+  Contains monthly financial data including credit amounts and closing balances.
+
+* **ss.xlsx**
+  Excel sheet containing the same financial data in tabular format.
+
+## XML Structure
+
+The XML file contains the following fields:
+
+* **DSPPERIOD** – Month
+* **DSPCRAMTA** – Credit Amount
+* **DSPCLAMTA** – Closing Balance
+* **DSPDRAMTA** – Debit Amount
+
+## Example
+
+April
+Credit Amount: 29731538.00
+Closing Balance: 29731538.00
+
+## Purpose
+
+This repository demonstrates storing and managing structured financial data using XML and Excel in a GitHub project.
+
+## Author
+
+Student Project – Data Handling using XML and Excel
