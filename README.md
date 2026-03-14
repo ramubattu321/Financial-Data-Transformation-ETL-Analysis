@@ -1,4 +1,4 @@
-# Financial Data Processing from Tally ERP 9
+# Financial Data Analysis using Tally ERP XML, Python and Excel
 
 ## Overview
 
